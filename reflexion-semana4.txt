@@ -1,5 +1,0 @@
-Escribe un texto de 8 a 10 líneas 
-
-Respuestas: Reflexion
-
-Yo pienso que es importante que las comunidades o iniciativas ciudadanas puedan crear sus propias herramientas tecnológicas porque así pueden hacer soluciones para los problemas que viven día a día. Usar tecnologías abiertas como Node.js ayuda porque son fáciles de conseguir y muchas veces gratuitas. Además, cualquier persona puede aprender y participar en los proyectos. También permite trabajar en equipo y compartir ideas con otras personas. De esta manera, las comunidades no dependen de empresas para crear sus herramientas. También ayuda a aprender más sobre tecnología y a desarrollar nuevas habilidades. Pienso que esto puede ayudar a mejorar la vida de muchas personas y aportar soluciones útiles para la comunidad.
